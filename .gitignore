@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.tmp
+debug/
+node_modules/
+.vercel/
+.DS_Store
